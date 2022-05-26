@@ -1,4 +1,4 @@
-## obfuscated-samples
+## Malicious, benign and obfuscated-samples
 Here are obfusacted PE samples which can be used as machine learning dataset. 
 
 

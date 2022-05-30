@@ -2,7 +2,7 @@
 Here are obfusacted PE samples which can be used as machine learning dataset. 
 
 
-## Request for dataset by fillingg form
+## Request for dataset by filling form
 
 <button style="background-color: turquoise; border: none; border-radius: 5px; color: #333; padding: 15px 32px"><a href="https://docs.google.com/forms/d/e/1FAIpQLScM5O9aHEh7D-xuX7MBx3riSNnkov6k7UZt1Of_UaEwah-acw/viewform?usp=sf_link" target="blank"> Fill the form for Questions, Queries and Suggestions</a></button>
 

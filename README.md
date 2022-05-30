@@ -1,5 +1,5 @@
 ## Malicious, benign and obfuscated-samples
-Here are obfusacted PE samples whichh can be used as machine learning dataset. 
+Here are obfusacted PE samples which can be used as machine learning dataset. 
 
 
 ## Request for dataset by filling form
